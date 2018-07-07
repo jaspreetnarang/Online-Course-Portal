@@ -1,0 +1,4 @@
+driver  sun.jdbc.odbc.JdbcOdbcDriver
+dsn     jdbc:odbc:asap
+user    deepak	
+pass   abc123
