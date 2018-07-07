@@ -1,0 +1,12 @@
+<web-app>
+
+<servlet>
+<servlet-name>my</servlet-name>
+<servlet-class>cont.Proread</servlet-class>
+<load-on-startup>1</load-on-startup>
+</servlet>
+<welcome-file-list>
+<welcome-file>Admission.jsp</welcome-file>
+</welcome-file-list>
+
+</web-app>
