@@ -1,0 +1,1 @@
+document.write("<table width='100%' border='0' cellspacing='0' cellpadding='0'>         <tr>           <td class='dblue'><div align='center'>&copy; Uttar Pradesh Technical University | Best viewed in 1024*768 pixel resolution. | <a href='uptu_disclaimer.htm'> Disclaimer </a>| <a href='mail.htm'>Check E-mail  </a></div></td>         </tr>       </table>")
